@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel Henrique
 
-Sou professor do componente de Pensamento Computacional pela rede estadual de educação do Paraná.
+Sou professor do componente currícular de Pensamento Computacional pela rede estadual de educação do Paraná.
 
 Utilizo em aula a plataforma [Alura](https://www.alura.com.br/)
 
